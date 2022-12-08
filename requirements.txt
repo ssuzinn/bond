@@ -1,0 +1,20 @@
+# conda create -n new
+# pip install -r requirements.txt
+# conda install --yes --file requirements.txt
+pandas
+numpy 
+torchvision
+#conda install pytorch torchvision -c pytorch 
+tensorflow
+ipywidgets
+matplotlib
+#jupyter nbextension enable --py widgetsnbextension
+#conda install -c conda-forge nodejs
+#jupyter labextension install @jupyter-widgets/jupyter lab-manager
+keras                
+scikit-learn 
+scipy
+tqdm
+statsmodels
+h20
+keras
